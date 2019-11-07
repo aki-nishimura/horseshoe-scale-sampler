@@ -16,8 +16,6 @@ Further details on the rejection sampler, as well as comparison with the previou
 
 Reference & Citation
 --------
-If you find this package useful, please consider citing
+If you find code here useful, please consider citing
 > Akihiko Nishimura and Marc A. Suchard (2018).
-> Regularization of Bayesian shrinkage priors and inference via geometrically / uniformly ergodic Gibbs sampler. arXiv:
-
-[TODO]: <> (Add the link to the arXiv paper.)
+> Regularization of Bayesian shrinkage priors and inference via geometrically / uniformly ergodic Gibbs sampler. arXiv:1911.02160.
