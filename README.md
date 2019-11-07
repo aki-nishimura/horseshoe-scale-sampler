@@ -18,4 +18,4 @@ Reference & Citation
 --------
 If you find code here useful, please consider citing
 > Akihiko Nishimura and Marc A. Suchard (2018).
-> Regularization of Bayesian shrinkage priors and inference via geometrically / uniformly ergodic Gibbs sampler. arXiv:1911.02160.
+> Regularization of Bayesian shrinkage priors and inference via geometrically / uniformly ergodic Gibbs sampler. [arXiv:1911.02160](http://arxiv.org/abs/1911.02160).
