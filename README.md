@@ -12,7 +12,7 @@ In Gibbs sampling the horseshoe model posteriors, we need to update &lambda; fro
 </p>
 The Python and R module here implement a rejection sampler for the above conditional distribution.
 The rejection sampler is simple and fast, with provably high acceptance probability,  providing a more efficient alternative to the previously proposed approaches.
-Further details on the rejection sampler, as well as comparison with the previously proposed approaches, can be found in Appendix C of the reference below.
+Further details on the rejection sampler, as well as comparison with the previously proposed approaches, can be found in Appendix F of the reference below.
 
 Reference & Citation
 --------
